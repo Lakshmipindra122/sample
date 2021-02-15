@@ -3,4 +3,5 @@ int main()
 {
 printf("HI");
 printf("LAKSHMI");
+printf("kumari");
 }
